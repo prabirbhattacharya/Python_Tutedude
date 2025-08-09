@@ -1,4 +1,69 @@
-# Python Tasks - Module 3
+# Python_Tutedude
+Learning Python in TuteDude
+
+# Assignment 01 :  Basic Python Concepts
+
+This repository contains two beginner Python scripts:
+
+## Asignment 01_Task 1: Perform Basic Mathematical Operations
+- Takes two numbers as input.
+- Performs addition, subtraction, multiplication, and division.
+- Displays results with error handling for division.
+
+## Assignment 01_Task 2: Create a Personalized Greeting
+- Asks for user’s first and last name.
+- Combines them and prints a greeting message.
+
+---
+Created as part of a programming exercise.
+
+
+
+# Assignment 02 : Control Structures in Python
+
+This repository contains beginner-level Python tasks focused on basic programming concepts including mathematical operations, conditionals, and loops.
+
+---
+
+## 📘 Task 1: Check if a Number is Even or Odd
+
+**Description:**  
+This script takes an integer input from the user and checks whether the number is even or odd using an `if-else` statement.
+
+**How it works:**
+- Takes user input using `input()`
+- Converts it to an integer using `int()`
+- Uses the modulo operator `%` to check for evenness
+- Displays the result using a formatted message
+
+**Sample Output:**
+```
+Enter a number: 7
+7 is an odd number.
+```
+
+---
+
+## 📘 Task 2: Sum of Integers from 1 to 50 Using a Loop
+
+**Description:**  
+This script calculates the sum of all integers from 1 to 50 using a `for` loop.
+
+**How it works:**
+- Initializes a variable `total_sum = 0`
+- Iterates from 1 to 50 using `range()`
+- Adds each number to `total_sum` inside the loop
+- Prints the final result using an `f-string`
+
+**Sample Output:**
+```
+The sum of numbers from 1 to 50 is: 1275
+```
+
+---
+
+
+# Assignment 03 : Functions & Modules in Python 
 
 This repository contains two Python scripts that demonstrate basic programming skills with **functions** and the **math module**.
 
@@ -68,7 +133,7 @@ Both scripts are simple, beginner-friendly, and include comments explaining each
 
 
 
-# Assignment 04 - File Handling in Python
+# Assignment 04 : Files, Exceptions, and Errors in Python
 
 This repository contains two Python scripts that demonstrate **file handling** in Python, including reading, writing, appending, and handling errors.
 
