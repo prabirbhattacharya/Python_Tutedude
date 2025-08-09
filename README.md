@@ -35,7 +35,7 @@ Error: The file 'sample.txt' was not found.
 Tip: Put 'sample.txt' in the same folder and run again.
 ```
 
-**File:** `task1_read_file_with_errors.py`
+**File:** `Assignement04_Task1_Read_File_with_Errors`
 
 ---
 
@@ -67,7 +67,7 @@ Hello, Python!
 Learning file handling in Python.
 ```
 
-**File:** `task2_write_append_file.py`
+**File:** `Assignement04_Task2_Write_Append_File.py`
 
 ---
 
