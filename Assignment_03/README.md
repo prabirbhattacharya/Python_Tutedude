@@ -26,7 +26,7 @@ Enter a number: 5
 Factorial of 5 is: 120
 ```
 
-**File:** `task1_factorial.py`
+**File:** `Assignement03_Task1_Factorial.py`
 
 ---
 
@@ -60,7 +60,7 @@ Logarithm: 3.21887582487  # natural log (base e)
 Sine (radians): -0.132351750098
 ```
 
-**File:** `task2_math_module_calculations.py`
+**File:** `Assignement03_Task2_Math_Module_Calculations.py`
 
 ---
 
