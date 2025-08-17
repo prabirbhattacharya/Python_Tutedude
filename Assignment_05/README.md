@@ -10,7 +10,7 @@
 
 ### Section of Data Input of the Students
 Open `Assignment05_Task01_Dictionary of Student Marks.py` and edit the `marks` dictionary:
-```python
+python
 marks = {
     'Alice': 85,
     'Bob': 78,
@@ -28,6 +28,7 @@ marks = {
 - `start` defaults to the beginning.
 - `stop` is **exclusive** (so `[:5]` returns indices `0..4`).
 - Reversing is as simple as `seq[::-1]`.
+
 
 ### Expected output
 ```
